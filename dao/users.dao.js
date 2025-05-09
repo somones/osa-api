@@ -139,8 +139,8 @@ const register =  async (req, res, next) =>{
               },
               bucketDetails:{
                 bucketName:"osabuckets/categorypictures",
-                accessKey:"AKIA4NRYEVGGS4JF23CK",
-                secretKey:"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"
+                accessKey:"KEY",
+                secretKey:"KEY"
               }
             }]);
             
@@ -467,8 +467,8 @@ const verifyaccount = async (req, res) => {
                     },
                     bucketDetails:{
                       bucketName:"osabuckets/categorypictures",
-                      accessKey:"AKIA4NRYEVGGS4JF23CK",
-                      secretKey:"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"
+                      accessKey:"KEY",
+                      secretKey:"KEY"
                     }
                   }]);
                 }else{
